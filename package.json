@@ -1,0 +1,14 @@
+{
+  "name": "file-uploader",
+  "version": "1.0.0",
+  "main": "src/main.jsx",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "lucide-react": "^0.268.0",
+    "shadcn/ui": "^1.0.0"
+  },
+  "devDependencies": {
+    "vite": "^4.3.2"
+  }
+}
